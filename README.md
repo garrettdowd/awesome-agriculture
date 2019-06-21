@@ -94,6 +94,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [FarmBot](https://github.com/farmbot) -  Open source precision agriculture CNC farming project.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
 - [OpenMinder](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
+- [Personal Food Computer](https://www.media.mit.edu/projects/personal-food-computer/overview/) -  tabletop-sized, controlled environment agriculture technology platform that automates plant growth and phenotypic expression using "climate recipies".
 
 ## Knowledgebases and Learning Resources
 
